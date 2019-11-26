@@ -1,4 +1,2 @@
-# ActivityIntentTextbyBISTU
+# ActivityIntent
 实现intent双向传递数据
-通过第一个按钮，实现了显示的intent，在本次实验中用途不大。
-本次实验室将第一个界面中的一句话传如到第二个界面的EditText之中，之后再将EditText中的数据，传递回第一个活动，从而实现了返回值的操作。
